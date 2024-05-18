@@ -6,7 +6,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="~/Styles.css" />
-    <title>EPE 2</title>
+    <title>Programación C#</title>
 </head>
 <body>
     <form id="form1" runat="server">
