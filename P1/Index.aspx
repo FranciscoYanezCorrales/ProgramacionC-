@@ -39,6 +39,12 @@
             <div>
                 <asp:Button ID="Button5" runat="server" OnClick="Button5_Click" Text="Ejemplo Array y Vectores" BackColor="Brown" />
             </div>
+            <div>
+                <h4>Ir a Pagina Web 6</h4>
+            </div>
+            <div>
+                <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Tipos de Variables Locales-Globales-Estaticas" BackColor="Brown" />
+            </div>
         </div>
     </form>
 </body>
