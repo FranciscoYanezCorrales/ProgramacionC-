@@ -13,7 +13,7 @@
         <div class="container">
             <h1>Francisco Yañez Corrales</h1>
             <img src="/img/logo.png" />
-            <h4>Ir a Pagina Web 1</h4>
+            <h4>Ir a Pagina Web 1.0</h4>
             <div>
                 <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Calcula EPE + EVA" BackColor="Green" />
             </div>
