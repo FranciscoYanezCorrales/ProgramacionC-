@@ -20,6 +20,7 @@
             <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
             <br />
+
             <asp:Label ID="Label3" runat="server" Text="Operación:"></asp:Label>
             <asp:DropDownList ID="DropDownList1" runat="server">
                 <asp:ListItem Text="Suma" Value="suma"></asp:ListItem>
@@ -27,6 +28,7 @@
                 <asp:ListItem Text="Multiplicación" Value="multiplicacion"></asp:ListItem>
                 <asp:ListItem Text="División" Value="division"></asp:ListItem>
             </asp:DropDownList>
+
             <asp:Label ID="LabelResultado" runat="server" Text=""></asp:Label>
             <br />
             <br />

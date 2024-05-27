@@ -44,7 +44,7 @@ namespace P1
             }
             catch (FormatException)
             {
-                LabelResult.Text = "Error: Asegúrese de ingresar solo números separados por comas.";
+                LabelResult.Text = "Error: Asegúrese de ingresar solo números separados por guion.";
             }
         }
         protected void Button2_Click(object sender, EventArgs e)
