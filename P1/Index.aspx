@@ -45,6 +45,12 @@
             <div>
                 <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Tipos de Variables Locales-Globales-Estaticas" BackColor="Brown" />
             </div>
+            <div>
+                <h4>Ir a Pagina Web 7</h4>
+            </div>
+            <div>
+                <asp:Button ID="Button7" runat="server" OnClick="Button7_Click" Text="Biografia Personal / Profesional" BackColor="Black" />
+            </div>
         </div>
     </form>
 </body>

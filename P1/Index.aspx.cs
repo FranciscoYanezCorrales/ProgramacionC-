@@ -38,5 +38,9 @@ namespace P1
         {
             Response.Redirect("WebForm7.aspx");
         }
+          protected void Button7_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm8.aspx");
+        }
     }
 }

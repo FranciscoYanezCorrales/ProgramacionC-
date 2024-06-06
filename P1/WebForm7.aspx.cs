@@ -19,7 +19,7 @@ namespace P1
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Esto se ejecuta cada vez que se carga la página
+
         }
 
         protected void Button1_Click(object sender, EventArgs e)
