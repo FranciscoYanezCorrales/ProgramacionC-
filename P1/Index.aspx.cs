@@ -40,7 +40,7 @@ namespace P1
         }
           protected void Button7_Click(object sender, EventArgs e)
         {
-            Response.Redirect("WebForm8.aspx");
+            Response.Redirect("https://franciscoyanez.netlify.app/");
         }
     }
 }
